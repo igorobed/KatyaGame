@@ -8,4 +8,4 @@ def test_func() -> None:
 
 if __name__ == "__main__":
     my_str: str = str(4)
-    print(my_str)  # hhhhhhhhhhhhhhhhhhhhhhh
+    print(my_str)  # hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
